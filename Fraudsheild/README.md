@@ -81,21 +81,37 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## **Project Structure**
+
 Here’s how your project folder should look:
+
 FraudShield/
+
 ├── app.py
+
 ├── Dockerfile
+
 ├── requirements.txt
+
 ├── kubernetes/
+
 │ ├── deployment.yaml
+
 │ └── service.yaml
+
 ├── argocd/
+
 │ └── application.yaml
+
 ├── screenshots/
+
 │ ├── api-response.png
+
 │ ├── k8s-deployment.png
+
 │ └── argocd-dashboard.png
+
 └── README.md
+
 
 ---
 
